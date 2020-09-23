@@ -1,13 +1,14 @@
-### Hi there 👋
+**👋 Hey there, I'm Marvin Frachet**
 
-Hi.
-I'm Marvin, a french software developer loving testing automation, [Typescript](https://www.typescriptlang.org/) and [React](https://reactjs.org/).
+I'm a french software developer loving testing automation, [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). I'm mostly doing product engineering but I also like to dive into deep technical concepts and learn new languages.
 
-- 🔭 I’m currently working on [https://gatsbyjs.com/](https://www.gatsbyjs.com/)
-- :book: I'm writing about project engineering at [https://mfrachet.github.io/](https://mfrachet.github.io/)
-- 🌱 I’m currently learning tons of things about Accessibility
-- 🤔 I’m looking for help on how to make a pertinent performance analysis of a frontend app
-- 💬 Ask me about anything
-- 📫 How to reach me: [Twitter](https://twitter.com/mfrachet), [LinkedIn](https://www.linkedin.com/in/marvin-frachet-49165365/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: :grimacing: let me think about what to put in there!
+I'm actually building some pieces of [Gatsby Cloud](gatsbyjs.com) that aims to be the fastest platform to build Gatsby sites.
+
+- Some blog posts I've written:
+  - [The N props syndrome](https://mfrachet.github.io/the-n-props-syndrome)
+  - [How do I choose which SSR strategy to adopt?](https://mfrachet.github.io/how-do-i-choose-a-ssr-strategy)
+  - [My toolbelt for safely building features](https://mfrachet.github.io/my-toolbelt)
+  - [Why I don't like Gitflow?](https://mfrachet.github.io/why-i-dont-like-gitflow)
+  - [Understanding the react native bridge concept](https://medium.com/hackernoon/understanding-react-native-bridge-concept-e9526066ddb8)
+- [Twitter](https://twitter.com/mfrachet)
+- [LinkedIn](https://www.linkedin.com/in/marvin-frachet-49165365/)
