@@ -5,6 +5,7 @@ I'm a french software developer loving testing automation, [Typescript](https://
 I'm actually building some pieces of [Gatsby Cloud](gatsbyjs.com) that aims to be the fastest platform to build Gatsby sites.
 
 - Some blog posts I've written:
+  - [A/B testing with the JAMstack](https://mfrachet.github.io/a-b-testing-with-the-jamstack)
   - [The N props syndrome](https://mfrachet.github.io/the-n-props-syndrome)
   - [How do I choose which SSR strategy to adopt?](https://mfrachet.github.io/how-do-i-choose-a-ssr-strategy)
   - [My toolbelt for safely building features](https://mfrachet.github.io/my-toolbelt)
