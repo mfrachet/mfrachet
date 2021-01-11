@@ -2,7 +2,7 @@
 
 I'm a french software developer loving testing automation, [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). I'm mostly doing product engineering but I also like to dive into deep technical concepts and learn new languages.
 
-I'm actually building some pieces of [Gatsby Cloud](gatsbyjs.com) that aims to be the fastest platform to build Gatsby sites.
+Currently building :rocket: [@strapi](https://github.com/strapi) Prev [@gatsbyjs](https://github.com/gatsbyjs/gatsby), [@zenika](https://github.com/Zenika)
 
 - Some blog posts I've written:
   - [A/B testing with the JAMstack](https://mfrachet.github.io/a-b-testing-with-the-jamstack)
