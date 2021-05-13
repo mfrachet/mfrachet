@@ -1,8 +1,12 @@
-**👋 Hey there, I'm Marvin Frachet**
+**👋 Hello, I'm Marvin Frachet**
 
-I'm a french software developer loving testing automation, [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). I'm mostly doing product engineering but I also like to dive into deep technical concepts and learn new languages.
+I'm a french software developer reconverted from the "hype" to ethical and inclusive programming.
 
-Currently building :rocket: [@strapi](https://github.com/strapi) Prev [@gatsbyjs](https://github.com/gatsbyjs/gatsby), [@zenika](https://github.com/Zenika)
+I'm mostly building products, with [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). I love testing automation and I'm trying my best to provide valid experience to people.
+
+I'm actually working on some pieces of [Strapi]((https://github.com/strapi)), a Headless CMS, and used to work on building [Gatsby Cloud](https://www.gatsbyjs.com/).
+
+I secretly dream of becoming an IT teacher.
 
 - [My blog](https://mfrachet.github.io/)
 - [Twitter](https://twitter.com/mfrachet)
