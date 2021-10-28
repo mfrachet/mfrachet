@@ -11,3 +11,7 @@ I secretly dream of becoming an IT teacher.
 - [My blog](https://mfrachet.github.io/)
 - [Twitter](https://twitter.com/mfrachet)
 - [LinkedIn](https://www.linkedin.com/in/marvin-frachet-49165365/)
+
+---
+
+My herotag on the Elrond blockchain is @mfrachet if you want to support my OSS projects.
